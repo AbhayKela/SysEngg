@@ -35,5 +35,11 @@ How to write requirement statement:
  - requirement should not specify specific piece of hardware of software into the system
 - determining proper hardware or software is not job description of the systems engineer. It is job of SMEs. 
 - each requirements should be unambiguous (all parties have same understanding of the requirements)
+- requirement should be complete (stand alone, independent of other requirements, avoid cross referencing other requirements, avoid pronoun)
+- requirement must be feasible (should not request impossible or unrealistic behavior or feature, some time all req are individually feasible but collection of them are not feasible)
+- requirements should be verifiable (analysis, demonstration, test or inspection) 
+- requirement can use illustration/ graphics 
+
+
 
 
