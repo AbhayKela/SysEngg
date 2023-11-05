@@ -10,3 +10,30 @@ environment)
 
 Traceability: the creation of linkage from one system elements to others
 (eg. mtbf requirements > availability requirements)
+
+System engineer must know how: 
+- test able
+- Produced 
+- packaged 
+- transported
+
+Pre-planned product improvement requirements (P3I)
+
+Sys Engg mush work with reliability SMEs
+
+RFA - request for action
+RFI - request for information
+
+RVTM - requirements verification and traceability matrix
+
+How to write requirement statement: 
+- Specific intent
+- Desired capability
+- Desired level of performance
+- Functions or behavioral characteristis
+- Not specifying how functions/behaviors are performed (calling for specific components) 
+ - requirement should not specify specific piece of hardware of software into the system
+- determining proper hardware or software is not job description of the systems engineer. It is job of SMEs. 
+- each requirements should be unambiguous (all parties have same understanding of the requirements)
+
+
