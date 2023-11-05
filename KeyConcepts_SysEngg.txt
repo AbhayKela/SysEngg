@@ -1,0 +1,12 @@
+Deriation: the creation of requirement based on an anlaysis of 
+higher-order requirements (eg. availablity requirements)
+
+Allocation: the assignment of a reqirement to one or more system elements 
+within the architecture. (eg. thrust requiremnt > propulsion requirements)
+
+Flow Down: assigning requirement to one or more lower level elements. 
+(eg. water resistant requirement > all elements exposed to outside 
+environment)
+
+Traceability: the creation of linkage from one system elements to others
+(eg. mtbf requirements > availability requirements)
