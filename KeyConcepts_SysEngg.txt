@@ -53,15 +53,15 @@ Primary goal for architecture definition:
 - select one or more concept alternative(s)
 
 Inputs to architecture definitions: 
-- Life cycle concepts.
-- system function definition.
-- system requirements. 
-- system functional interface identification. 
+- Life cycle concepts
+- system function definition
+- system requirements
+- system functional interface identification 
 - System requirements traceability
 - Updated RVTM
 - Design traceability
 - Interface definition update identification
-- Life cycle constraints 
+- Life cycle constraints.
 
 Goes into architecture definition
 - Prepare for architecture definition
@@ -75,11 +75,35 @@ Output of architecture definition
 - Architecture definition strategy
 - System architecture description
 - System architecture rationale
-- Documentation tree.
-- Preliminary interface definition.
+- Documentation tree
+- Preliminary interface definition
 - Technical performance measure needs and data
 - Architecture traceability
 - Architecture definition record. 
+
+Architecture views
+- operational (user's perspective)
+- logical (acquirer/customer's perspective)
+- Physical (designer's perspective)
+
+Architecting is abstract/inductive. More art than science
+Designing is deductive. More science than art 
+
+Architecture is not a modeling language. 
+
+Model based systems engineering (MBSE)
+- systems engineering (requirement development, functional and mission development, physical definition)
+- MBSE tool
+- MBSE language (sysML)
+
+A thing that perform a function is called physical including software.
+
+System model domains -  
+- Requirement domain: description of mandatory things your widget needs to do
+- Behavioral domain:all the ways you're widget should behave goes
+- Structural domain: what your widget is made out of is in structural domain
+
+Interfaces: (forces, energy, data, signals or materials)
 
 
 
