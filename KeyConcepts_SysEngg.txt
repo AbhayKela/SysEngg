@@ -96,7 +96,7 @@ Model based systems engineering (MBSE)
 - MBSE tool
 - MBSE language (sysML)
 
-A thing that perform a function is called physical including software.
+A thing that perform a function is called physical including software
 
 System model domains -  
 - Requirement domain: description of mandatory things your widget needs to do
@@ -104,6 +104,95 @@ System model domains -
 - Structural domain: what your widget is made out of is in structural domain
 
 Interfaces: (forces, energy, data, signals or materials)
+
+SysML - Systems modeling language and UML - unified modeling language:
+- Modeling language: artificial language of communicating concept in standardized way  
+- agreed upon grammar and vocabulary
+- mostly graphical
+
+Unified modeling language: 
+- general purpose modeling language for software engineer that is intended to provide a standard way to visualize the design of a software system
+
+System modeling language: 
+- general purpose modeling language for systems engineer that is intended to provide a standard way to visualize the design of a system (hardware and software) 
+- it adds two new diagram (requirements and parametric)
+
+-Type of diagrams:
+-- Structure Diagram types
+--- Bdd - block definition diagram
+--- ibd - internal body diagram 
+---- par - parametric diagram
+--- pkg - package diagram
+
+-- Behavior diagram types
+--- act - activity diagram
+--- seq - sequence diagram
+--- stm - state machine diagram
+--- ucd - use case diagram
+
+-- Requirement diagram type
+--- req - requirement diagram
+
+
+BDD (block definition diagram)
+- it is a structure of system showing system blocks, their attributes, property and interactions
+- analogue to class diagram in UML
+- good for systems hierarchy 
+
+IBD (internal block diagram)
+- internal structure of single structure of the block
+- inputs on the perimeter of diagram are brought in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
