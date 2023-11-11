@@ -143,6 +143,52 @@ IBD (internal block diagram)
 - internal structure of single structure of the block
 - inputs on the perimeter of diagram are brought in
 
+Activity diagram
+- Depicts system behaviors, sequencing, decision and other logic between system behaviors
+- functional interfaces (force, energy, data, signal, material)
+- control flow is dotted line and object flow is solid line
+- decision node needs logic
+
+Sequence diagram (never saw using this diagram)
+- blocks 
+- relation between blocks and actors
+- synchronous messages or call messages 
+
+State machine 
+- behavioral diagram
+- on state, off state, degraded state
+- nested state (substate)
+- start point and end point are important 
+
+Parametric diagram
+- performance, reliability and SWaP analysis (size weight and power)
+
+Package diagram
+- hierarchy diagram
+- architecture diagram
+-- requirement domain, behavior domain and structural domain\
+
+
+
+UML diagrams: 
+- Behavioral Diagram
+-- Activity diagram
+-- State machine diagram
+-- Interaction diagram
+--- Timing diagram
+--- Interaction overview diagram
+--- Communication diagram
+--- Sequence diagram
+-- Use case diagram
+
+- Structure diagram
+-- component diagram
+-- class
+-- composite
+-- deployment
+-- package
+-- object
+
 
 
 
