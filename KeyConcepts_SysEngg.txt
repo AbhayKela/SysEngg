@@ -190,6 +190,28 @@ UML diagrams:
 -- object
 
 
+Behavioral/functional domain: 
+- function/behavior and activity are synonymous in sysengg
+
+Function is an action performed by system element that converts inputs to output. Function: 
+- uses input
+- generates output
+- based on requirements/context/scenario
+- decomposes/decomposed by sub-function
+- performs/performed by component
+
+Activities vs action
+- Activities are overarching system behavior, composed of actions. These are decomposed into lower level actions. 
+- Actions are leaf level system behavior. Actions are not decomposed. Actions are basic units of functionality. 
+
+Activity must have at-least one input and one output.
+
+Outputs are always different than inputs
+
+Sequence diagram always draws relation between physical elements from functional prospective. 
+
+Functional block diagram: 
+- it depicts relation between internal elements to external entity
 
 
 
