@@ -215,6 +215,25 @@ Functional block diagram:
 
 
 
+Use case: 
+it is a list of steps user will most likely deploy, operate, support or dispose of a system to achieve a desired goal. 
+- helps refine requirements. 
+- foster top-down design
+- preempt errors and faults
+- save time and money preventing faults/ errors from existing
+- help decompose the problem into more managable segment 
+
+
+Elements of an usecase: 
+Actors: a stakeholder / one or more actors. 
+Summary: description of an use case in paragraph from
+goal: primary outcome desired by an actor
+pre-condition: things that must be true prior to starting the use-case
+gurantees: the least the system can do for the actor, if the goal is not met. 
+trigger: step 1 in course of an environment
+course of event: numbered list of actions the actor/s and system takes to accomplish the goal. 
+alternative path: 
+
 
 
 
