@@ -213,6 +213,42 @@ Sequence diagram always draws relation between physical elements from functional
 Functional block diagram: 
 - it depicts relation between internal elements to external entity
 
+Primary source of function: 
+- Requirement specificaitons
+- Context Diagram
+- Life Cycle Concepts
+- Legacy and predecessor system functions 
+- Parent functions
+
+Top-down systems engineering: 
+- The behavioral domain is bases on 
+	- the requirements domain
+	- the mission domain
+	- itself 
+- the behavioral domain is not based on 
+	- the physical domain
+
+
+Top down sys engg
+	- Needs, technology driver, context basis of: 
+		- life cycle concepts and requirements basis of: 
+			- functions basis of: 
+				- hardware/ software	
+
+- Hardware and software are based on functions. Functions are not based on hardware and software. 
+
+
+Stakeholder needs and requirements definition focus: 
+- high-risk systems ands subsystem entities
+- defining systems and subsystem performance requirements/MOEs
+- defining the lifecycle concepts
+
+Architecture definition focus: 
+- Decompose system and subsystem functions until makes/buy decision can be made at component level 
+- Mitigate function-related risks into the green
+- Complete the rest of the functional architecture for non-primary-mission scenarios, fail modes and recovery operations
+- Heavy use of analysis, modeling and simulations 
+
 
 
 Use case: 
